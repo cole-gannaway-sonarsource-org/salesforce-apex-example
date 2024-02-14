@@ -36,3 +36,4 @@ jobs:
             -Dsonar.projectName=Salesforce-Apex-Example
             -Dsonar.verbose=true
             -Dsonar.apex.pmd.reportPaths=pmdnew.xml
+            -Dsonar.projectKey=cole-gannaway-sonarsource-org_salesforce-apex-example_AY2oacC9vpdSUPhA8_Lj
