@@ -32,6 +32,5 @@ jobs:
         with:
           args: >
             -Dsonar.projectName=Salesforce-Apex-Example
-            -Dsonar.projectKey=SonarSource-Demos_salesforce-apex-example
             -Dsonar.verbose=true
             -Dsonar.apex.pmd.reportPaths=pmdnew.xml
